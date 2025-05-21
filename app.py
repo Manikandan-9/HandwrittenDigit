@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 from PIL import Image, ImageOps
 from streamlit_drawable_canvas import st_canvas
 
